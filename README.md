@@ -4,7 +4,7 @@
 
 `brew install arnarpall/fixes/<formula>`
 
-Or `brew tap arnarpall/fixes` and then `brew install <formula>`.
+Or `brew tap arnarpall/homebrew-fixes git@github.com:arnarpall/homebrew-fixes.git` and then `brew install <formula>`.
 
 ## Documentation
 
